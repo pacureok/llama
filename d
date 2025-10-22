@@ -1,1 +1,1 @@
-linguistica mente hablando como te sientarias si fueras nada
+Explica, de forma concisa y estructurada en 4 puntos clave, el propósito y la diferencia principal entre los formatos de cuantificación GGUF y AWQ en el contexto de la ejecución local de un Gran Modelo de Lenguaje (LLM)
